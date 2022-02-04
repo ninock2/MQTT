@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2c44daa-bff5-46e6-98e9-6bd97e945d44": {
+      "ProjectGuid": "e2c44daa-bff5-46e6-98e9-6bd97e945d44",
+      "DisplayName": "MQTT_Client",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
